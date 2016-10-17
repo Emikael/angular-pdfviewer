@@ -1,0 +1,14 @@
+{
+  "name": "angular-pdfviewer",
+  "homepage": "https://github.com/Emikael/angular-pdfviewer",
+  "version": "1.0.0",
+  "_release": "1.0.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "v1.0.0"
+  },
+  "_source": "https://github.com/Emikael/angular-pdfviewer.git",
+  "_target": "^1.0.0",
+  "_originalSource": "angular-pdfviewer",
+  "_direct": true
+}
