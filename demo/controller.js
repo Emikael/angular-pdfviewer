@@ -1,4 +1,4 @@
-var app = angular.module('testApp', [ 'angularPDFViewer' ]);
+var app = angular.module('testApp', [ 'angularPDFView' ]);
 
 app.controller('TestController', [ '$scope', 'angularPDFViewerService', function($scope, pdf) {
 	console.log('TestController: new instance');

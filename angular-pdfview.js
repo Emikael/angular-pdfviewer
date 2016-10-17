@@ -26,7 +26,7 @@
  * SOFTWARE.
  */
 
-angular.module('angularPDFViewer', []).directive('pdfviewer', ['$parse', function ($parse) {
+angular.module('angularPDFView', []).directive('pdfviewer', ['$parse', function ($parse) {
     var canvas = null;
     var instance_id = null;
 

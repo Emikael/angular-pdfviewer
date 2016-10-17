@@ -120,9 +120,9 @@ app.controller('TestCtrl', [ '$scope', 'PDFViewerService', function($scope, pdf)
 
 ## Usage
 
-Include `angular-pdfviewer.js` as JavaScript file, along with `pdf.js` and `pdf.compat.js`.
+Include `angular-pdfview.js` as JavaScript file, along with `pdf.js` and `pdf.compat.js`.
 
-Declare `angularPDFViewer` as dependency to your module.
+Declare `angularPDFView` as dependency to your module.
 
 You can now use the `pdfviewer` tag in your HTML source.
 
