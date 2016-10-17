@@ -12,7 +12,7 @@ localhost:8000/demo/index.html
 
 To install with bower
 ``` js
-bower install angular-pdfviewer
+bower install angular-pdfview
 ```
 
 # angular-pdfviewer
