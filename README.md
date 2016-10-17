@@ -1,4 +1,4 @@
-# Requirements
+# AngularJS PDF viewer directive
 
 You need have node
 ``` js
