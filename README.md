@@ -61,9 +61,9 @@ and in your AngularJS code:
 
 ``` js
 
-var app = angular.module('testApp', [ 'angularPDFViewer' ]);
+var app = angular.module('testApp', [ 'angularPDFView' ]);
 
-app.controller('TestCtrl', [ '$scope', 'angularPDFViewerService', function($scope, pdf) {
+app.controller('TestCtrl', [ '$scope', 'angularPDFViewService', function($scope, pdf) {
 	$scope.viewer = pdf.Instance("viewer");
 
 	$scope.nextPage = function() {
